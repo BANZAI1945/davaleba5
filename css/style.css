@@ -16,8 +16,8 @@
 /* nav */
 .nav {
     vertical-align: middle;
-    margin-left: 600px;
-    
+    margin-left: 600px; 
+    /* aq marjinis dros roca 701 vutiteb qvemot magdebs */
     display: inline-block;
 
 }
@@ -132,6 +132,7 @@ li {
     width: 98px;
     height: 98px;
     display: inline-block;
+    
 
 }
 
